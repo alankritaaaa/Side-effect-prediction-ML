@@ -36,4 +36,4 @@ How It Works
 Streamlit App Preview
 Not live-hosted yet. Run locally using:
 ```VSCode
-streamlit run app.py
+streamlit run streamlit_app.py
