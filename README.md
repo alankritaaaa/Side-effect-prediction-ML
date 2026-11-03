@@ -33,6 +33,11 @@ How It Works
 2. Model outputs a risk score using learned pharmacological patterns.
 3. The system retrieves and recommends lower-risk substitutes from the same category.
 
+
+FOR MORE INFORMATION, MAIL ME
+AND PLEASE HIRE ME OK?
+
+
 Streamlit App Preview
 Not live-hosted yet. Run locally using:
 ```VSCode
